@@ -2,7 +2,7 @@
 
 **`Programador Iniciante`**
 
-Me chamo Guilherme Passinho, tenho 20 anos e sou natural do Maranhão. Atualmente, estou cursando Bacharelado Interdisciplinar em Ciência e Tecnologia na UFMA. Tenho grande curiosidade por tecnologia e ciência no geral, compartilho meus conhecimentos e avanços por aqui.
+Me chamo Guilherme Passinho, tenho 20 anos e sou natural de São Luís do Maranhão. Atualmente, estou cursando Bacharelado Interdisciplinar em Ciência e Tecnologia na UFMA. Tenho grande curiosidade por tecnologia e ciência no geral, compartilho meus conhecimentos e avanços por aqui.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/guilherme-passinho-0a1427230/">
